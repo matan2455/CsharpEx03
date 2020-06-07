@@ -1,0 +1,6 @@
+C:\Users\I531932\source\repos\B20 Ex03 Tal 200951465 Matan 304979925\GarageLogic\bin\Debug\GarageLogic.dll
+C:\Users\I531932\source\repos\B20 Ex03 Tal 200951465 Matan 304979925\GarageLogic\bin\Debug\GarageLogic.pdb
+C:\Users\I531932\source\repos\B20 Ex03 Tal 200951465 Matan 304979925\GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\I531932\source\repos\B20 Ex03 Tal 200951465 Matan 304979925\GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\I531932\source\repos\B20 Ex03 Tal 200951465 Matan 304979925\GarageLogic\obj\Debug\GarageLogic.dll
+C:\Users\I531932\source\repos\B20 Ex03 Tal 200951465 Matan 304979925\GarageLogic\obj\Debug\GarageLogic.pdb
